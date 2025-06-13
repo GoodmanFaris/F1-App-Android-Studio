@@ -1,0 +1,14 @@
+# Build i privremeni fajlovi
+.gradle/
+.idea/
+*.iml
+build/
+*/build/
+local.properties
+
+# Cache i logovi
+*.log
+
+# OS fajlovi
+.DS_Store
+Thumbs.db

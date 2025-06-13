@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">F1 App</string>
+    <string name="race_finished">🏁 RACE FINISHED!</string>
+    <string name="search_races">Search races...</string>
+    <string name="race_playback_speed">"Race playback speed: "</string>
+    <string name="slow">Slow</string>
+    <string name="mid">Mid</string>
+    <string name="fast">Fast</string>
+    <string name="loading">Loading...</string>
+</resources>
